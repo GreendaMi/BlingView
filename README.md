@@ -1,5 +1,7 @@
 # BlingView
 
+![图1](https://user-gold-cdn.xitu.io/2018/1/16/160fdd8250998497?w=272&h=480&f=gif&s=306404)
+
 对TextView进行了扩展，使其带有发光的金属效果。
 
 一句话调用：
